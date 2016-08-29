@@ -53,7 +53,7 @@ public class QDemo {
 
     // retrieve and display elements from bigQ
     System.out.print("Contents of bigQ: ");
-    for(i=0; i&lt;26; i++){
+    for(i=0; i < 26; i++){
       ch = bigQ.get();
       if (ch != (char) 0){
         System.out.print(ch);
@@ -74,7 +74,7 @@ public class QDemo {
 
     // more errors on smallQ
     System.out.println("Concents of smallQ: ");
-    for(i=0; i&lt;5; i++){
+    for(i=0; i < 5; i++){
       ch=smallQ.get();
 
       if (ch != (char) 0){
