@@ -1,0 +1,1 @@
+I've used several books to learn Java, and thus far <strong>Herbert Schildt's Java: A Beginner's Guide, 6th ed.</strong> has been the most helpful. I've completed some of the self-test's that are found and the end of each chapter, and have compiled them here (pdf versions, not copied from textbook unless indicated)
